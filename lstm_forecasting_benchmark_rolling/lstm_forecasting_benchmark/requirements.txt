@@ -1,8 +1,0 @@
-numpy>=1.23
-pandas>=1.5
-scikit-learn>=1.2
-statsmodels>=0.14
-pmdarima>=2.0
-tensorflow>=2.10
-openpyxl>=3.1
-matplotlib>=3.7
